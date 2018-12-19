@@ -155,5 +155,6 @@ git config --global color.ui true
 ---------------------------------------------
 Git的官方网站：http://git-scm.com
 https://www.liaoxuefeng.com
+git cheat sheet: https://pan.baidu.com/s/1kU5OCOB#list/path=%2F
 
 
