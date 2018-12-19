@@ -33,10 +33,16 @@ git rm test.txt
 git commit -m 
 git checkout -- test.txt  -----------用版本库里的版本替换工作区的版本
 
-Git是分布式版本控制系统
-集中式版本控制系统SVN
 
-ssh-keygen -t rsa -C "youremail@example.com"
+远程仓库
+	Git是分布式版本控制系统
+	集中式版本控制系统SVN
+
+	ssh-keygen -t rsa -C "youremail@example.com"  ------创建SSH Key
+
+	git remote add origin https://github.com/BlackFee/learngit.git  ---origin 远程库的名字
+	git push -u origin master   
+
 
 
 
